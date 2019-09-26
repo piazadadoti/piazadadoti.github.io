@@ -1,0 +1,673 @@
+[
+  {
+    "data": "20/09/2019",
+    "autor": "Eder",
+    "frase": "Jonas: As cores primárias são vermelho, amarelo e azul. Ederson: Isso, red, green, blue."
+  },
+  {
+    "data": "19/09/2019",
+    "autor": "Gerson",
+    "frase": "Denérius"
+  },
+  {
+    "data": "18/09/2019",
+    "autor": "Frare",
+    "frase": "Não... Faz o seguinte: Não faz nada!"
+  },
+  {
+    "data": "12/09/2019",
+    "autor": "Frare",
+    "frase": "Sim, Gerson (Confederação) tem que colocar em prática, tem que pegar tudo e botar pra dentro."
+  },
+  {
+    "data": "12/09/2019",
+    "autor": "Frare",
+    "frase": "Esta informação não afeta o passado"
+  },
+  {
+    "data": "03/09/2019",
+    "autor": "Gerson",
+    "frase": "O apelido dele era Zazá por causa dos 7 anões. cri! cri! cri! É...Não tem nada a ver com os 7 anões!"
+  },
+  {
+    "data": "27/08/2019",
+    "autor": "Israel",
+    "frase": "Aquele dia eu estava feio, eu estava cabeludo"
+  },
+  {
+    "data": "28/08/2019",
+    "autor": "Vinicius",
+    "frase": "Negócio é o seguinte... Ele é bem pequeno, mas ele é bem grande!"
+  },
+  {
+    "data": "22/03/2019",
+    "autor": "Vini/Jefferson",
+    "frase": "Vini: Isso é prioridade? Jefferson: Eu não posso dizer que é e nem que não é!"
+  },
+  {
+    "data": "12/03/2019",
+    "autor": "Vinicius",
+    "frase": "Humm, entro tudo a bunda."
+  },
+  {
+    "data": "12/03/2019",
+    "autor": "Vinicius",
+    "frase": "100% é todos?"
+  },
+  {
+    "data": "08/03/2019",
+    "autor": "Vinicius",
+    "frase": "Minha mão direita tá sempre tremendo."
+  },
+  {
+    "data": "13/02/2019",
+    "autor": "Ederson",
+    "frase": "Um bicho que cavoca: Um chupim."
+  },
+  {
+    "data": "13/02/2019",
+    "autor": "Frare / Gerson",
+    "frase": "Israel: Esta música é do Kansas. Gerson: Kansas de ajuntar pedra."
+  },
+  {
+    "data": "12/02/2019",
+    "autor": "Paulo",
+    "frase": "AKG é Aaa – Kaa – Gee."
+  },
+  {
+    "data": "09/02/2019",
+    "autor": "Pablo",
+    "frase": "Você consegue correr de uma morsa!"
+  },
+  {
+    "data": "09/02/2019",
+    "autor": "Bruno",
+    "frase": "Cheiro de monitor normal."
+  },
+  {
+    "data": "05/02/2019",
+    "autor": "Frare",
+    "frase": "Nós estamos no futuro."
+  },
+  {
+    "data": "21/01/2019",
+    "autor": "Paulo",
+    "frase": "Quem controla a loteria é o Diabo."
+  },
+  {
+    "data": "21/01/2019",
+    "autor": "Paulo",
+    "frase": "Depois que o cara ver o sabor vai querer de novo."
+  },
+  {
+    "data": "24/01/2019",
+    "autor": "Vinicius",
+    "frase": "Não posso te exatidar neste momento."
+  },
+  {
+    "data": "29/01/2019",
+    "autor": "Gerson",
+    "frase": "Se não sou eu que largo é alguém que me mete no rolo"
+  },
+  {
+    "data": "13/12/2017",
+    "autor": "Jefferson",
+    "frase": "Tem horas que não tem o que fazer, é só bestemar!"
+  },
+  {
+    "data": "15/12/2017",
+    "autor": "Cassol",
+    "frase": "Se esta alça está do lado esquerdo e este bolso está do outro lado, ele só pode estar no lado direito."
+  },
+  {
+    "data": "21/12/2017",
+    "autor": "Cassol",
+    "frase": "Me enforquei com o chimarrão!"
+  },
+  {
+    "data": "21/12/2017",
+    "autor": "Vinicius",
+    "frase": "É só um minutinho, vai demorar no máximo dois minutos."
+  },
+  {
+    "data": "28/12/2017",
+    "autor": "Ederson",
+    "frase": "Eu entendo que é simples e não é complicado."
+  },
+  {
+    "data": "12/01/0218",
+    "autor": "Vinicius",
+    "frase": "Essa é uma pérola interna."
+  },
+  {
+    "data": "12/01/2018",
+    "autor": "Bruno",
+    "frase": "… daí pode crescer pra baixo a vontade…"
+  },
+  {
+    "data": "12/01/2018",
+    "autor": "Jefferson",
+    "frase": "Vocês perdem a imunidade dos dedos!!!"
+  },
+  {
+    "data": "17/01/2018",
+    "autor": "Vinicius",
+    "frase": "Creim com o vermelhão que me deu por dentro agora!"
+  },
+  {
+    "data": "24/01/2018",
+    "autor": "Vinicius",
+    "frase": "Como é que o cara vai confirmar a ida pra Passo Fundo hoje se hoje é hoje?"
+  },
+  {
+    "data": "24/01/2018",
+    "autor": "Ederson",
+    "frase": "Se ele se eleger, já está eleito!!!"
+  },
+  {
+    "data": "26/01/2018",
+    "autor": "Ederson",
+    "frase": "É o mesmo: igual igual, só que diferente!"
+  },
+  {
+    "data": "02/02/2018",
+    "autor": "Gerson",
+    "frase": "Não é que eu me esqueci, eu só não me lembro!"
+  },
+  {
+    "data": "02/02/2018",
+    "autor": "Paulo",
+    "frase": "Publicou as publicações"
+  },
+  {
+    "data": "06/02/2018",
+    "autor": "Ederson",
+    "frase": "Eu sou quase uma moto."
+  },
+  {
+    "data": "09/02/2018",
+    "autor": "Vinicius",
+    "frase": "Sabe o Bruno, do Jorge e Mateus?"
+  },
+  {
+    "data": "21/02/2018",
+    "autor": "Gerson",
+    "frase": "A partir de hoje, mais um mês, vai dar quase três meses."
+  },
+  {
+    "data": "27/02/2018",
+    "autor": "Gerson",
+    "frase": "Aquele desenho futurista lá, os Fletsons."
+  },
+  {
+    "data": "28/02/2018",
+    "autor": "Ederson",
+    "frase": "Quando cria um usuário tem que criar e quando remove tem que remover."
+  },
+  {
+    "data": "28/02/2018",
+    "autor": "Paulo",
+    "frase": "Ele falou antes de morrer…"
+  },
+  {
+    "data": "02/03/2018",
+    "autor": "Cassol",
+    "frase": "Por se tratar de um caso excepcional, é diferente dos casos normais."
+  },
+  {
+    "data": "13/03/2018",
+    "autor": "Paulo",
+    "frase": "É tipo gelo, branco mais alguma coisa."
+  },
+  {
+    "data": "19/03/2018",
+    "autor": "Eder e Gerson",
+    "frase": "Eder: O que precisa fazer para ficar no semiaberto? Gerson: É só casar!"
+  },
+  {
+    "data": "26/03/2018",
+    "autor": "Cassol",
+    "frase": "Se você tiver alguns, fora outros."
+  },
+  {
+    "data": "29/03/2018",
+    "autor": "Gerson",
+    "frase": "Esse é um valor fixo que só aumenta."
+  },
+  {
+    "data": "29/03/2018",
+    "autor": "Vinicius",
+    "frase": "Estou falando com um português, um português de Portugal."
+  },
+  {
+    "data": "03/04/2018",
+    "autor": "Gerson",
+    "frase": "É um perto que tá longe."
+  },
+  {
+    "data": "03/04/2018",
+    "autor": "Paulo",
+    "frase": "O meu eu paguei de graça!"
+  },
+  {
+    "data": "06/04/2018",
+    "autor": "Vinicius",
+    "frase": "Preciso marcar um horário comigo mesmo."
+  },
+  {
+    "data": "06/04/2018",
+    "autor": "Jefferson",
+    "frase": "Será que não tem um cabo de energia sem fio?"
+  },
+  {
+    "data": "25/04/2018",
+    "autor": "Ederson",
+    "frase": "Eles lançam no futuro com data passada."
+  },
+  {
+    "data": "03/05/2018",
+    "autor": "Ederson",
+    "frase": "Nessa análise só tem o saldo e o número de quantidade."
+  },
+  {
+    "data": "21/06/2018",
+    "autor": "Gerson",
+    "frase": "Compra um coelho, assim você terá ovos de páscoa. É só dar cacau pra ele comer!"
+  },
+  {
+    "data": "21/06/2018",
+    "autor": "Vinicius",
+    "frase": "Eu e o Jeffe tava falando de meio dia dessas coisas aí do cara tá com o negócio na mão e não lembrar…"
+  },
+  {
+    "data": "06/07/2018",
+    "autor": "Gerson",
+    "frase": "Eu sei, mas não quero saber."
+  },
+  {
+    "data": "17/07/2018",
+    "autor": "Jefferson",
+    "frase": "Jeffe falando francês: “Popotin. Le che tu qué?”"
+  },
+  {
+    "data": "01/09/2018",
+    "autor": "Gerson",
+    "frase": "Imprimir é uma coisa, navegar é outra."
+  },
+  {
+    "data": "01/09/2018",
+    "autor": "Gerson",
+    "frase": "Eu não faço apostas, eu faço convicções!"
+  },
+  {
+    "data": "01/09/2018",
+    "autor": "Israel",
+    "frase": "O Gerson é quase uma ostra de tanta pérola que larga. Ele é o que mais produz pérolas no setor."
+  },
+  {
+    "data": "01/09/2018",
+    "autor": "Israel",
+    "frase": "O Gerson é tipo aquelas pérolas de cativeiro."
+  },
+  {
+    "data": "04/09/2018",
+    "autor": "Gerson",
+    "frase": "O avião é um ônibus de asa."
+  },
+  {
+    "data": "05/09/2018",
+    "autor": "Gerson",
+    "frase": "Olha ali um avião da azul, só que é verde."
+  },
+  {
+    "data": "05/09/2018",
+    "autor": "Gerson",
+    "frase": "Igual ao ônibus verde, só que azul."
+  },
+  {
+    "data": "06/09/2018",
+    "autor": "Ederson",
+    "frase": "Ele é mudo até quando fala."
+  },
+  {
+    "data": "06/09/2018",
+    "autor": "Bruno",
+    "frase": "Ele se auto deu uma facada."
+  },
+  {
+    "data": "10/09/2018",
+    "autor": "Gerson",
+    "frase": "Ambos estão certos. E errados também."
+  },
+  {
+    "data": "11/09/2018",
+    "autor": "Vinicius",
+    "frase": "Tá certo, mas não tá certo do jeito certo."
+  },
+  {
+    "data": "14/09/2018",
+    "autor": "Israel",
+    "frase": "Ele acha que o muro é uma árvore de concreto."
+  },
+  {
+    "data": "17/09/2018",
+    "autor": "Gerson",
+    "frase": "Tinoréx"
+  },
+  {
+    "data": "17/09/2018",
+    "autor": "Israel / Gerson",
+    "frase": "Água que escoe. Escoe com E mudo."
+  },
+  {
+    "data": "04/10/2018",
+    "autor": "Vagner",
+    "frase": "Já vi muito macho online."
+  },
+  {
+    "data": "17/10/2018",
+    "autor": "Vinicius",
+    "frase": "Eu olhei pro Gerson, o Gerson me olhou, nós nos olhamos…"
+  },
+  {
+    "data": "26/10/2018",
+    "autor": "Israel",
+    "frase": "O pudim não é preenchido no meio porque senão seria chamado de TUDIN."
+  },
+  {
+    "data": "26/10/2018",
+    "autor": "Gerson",
+    "frase": "Tá loko, eu ligo pro Guilherme dizem que tá em reunião com o Maicon, daí ligo pro Maicon dizem que tá em reunião com o Guilherme, assim não dá!"
+  },
+  {
+    "data": "03/12/2018",
+    "autor": "Vinicius",
+    "frase": "Se eu mastigar 30 vezes esse negócio desaparece na minha boca."
+  },
+  {
+    "data": "10/12/2018",
+    "autor": "Jefferson",
+    "frase": "Uns ovos de coderna em consorva…"
+  },
+  {
+    "data": "11/12/2018",
+    "autor": "Gerson",
+    "frase": "Deixei lá pra ele terminar de terminar de baixar o download."
+  },
+  {
+    "data": "12/12/2018",
+    "autor": "Gerson",
+    "frase": "Eu sou o único que fala Gebert, daí acabei me entregando pra ele!"
+  },
+  {
+    "data": "21/12/2018",
+    "autor": "Gerson",
+    "frase": "É sempre a mesma ordem, tem várias ordens pra fazer."
+  },
+  {
+    "data": "28/12/2018",
+    "autor": "Ederson",
+    "frase": "O Gerson só caminha lá atrás."
+  },
+  {
+    "data": "06/01/2017",
+    "autor": "Ederson",
+    "frase": "Eu queria ser um código fonte"
+  },
+  {
+    "data": "17/01/2017",
+    "autor": "Gerson",
+    "frase": "História da cidade de Paial: - Alguém deu um tiro de espingarda e: PAIAAAALL!"
+  },
+  {
+    "data": "17/01/2017",
+    "autor": "Gerson",
+    "frase": "Afeto sexual"
+  },
+  {
+    "data": "09/02/2017",
+    "autor": "Cassol",
+    "frase": "Estações meteóricas de previsão do tempo."
+  },
+  {
+    "data": "09/02/2017",
+    "autor": "Ederson",
+    "frase": "Nossa Vagner, a moça faz bem melhor com a boca do que você com a mão!"
+  },
+  {
+    "data": "19/04/2017",
+    "autor": "Gerson",
+    "frase": "Ali chegando em Pinhalzinho tem um fábrica de frutas..."
+  },
+  {
+    "data": "28/04/2017",
+    "autor": "Paulo",
+    "frase": "Dar um salto mortal e me transformar numa libélula!"
+  },
+  {
+    "data": "01/06/2017",
+    "autor": "Cassol",
+    "frase": "Quebrou a cordinha..."
+  },
+  {
+    "data": "05/07/2017",
+    "autor": "Gerson",
+    "frase": "A equipe de TI está metade de atestado e a outra metade está no seminário, aí estamos somente em 1/3 (um terço) aqui!"
+  },
+  {
+    "data": "10/07/2017",
+    "autor": "Gerson",
+    "frase": "A codorna é uma galinha"
+  },
+  {
+    "data": "12/07/2017",
+    "autor": "Gerson",
+    "frase": "Estamos evoluindo para trás"
+  },
+  {
+    "data": "26/07/2017",
+    "autor": "Rommel",
+    "frase": "Então está certo, só tem alguma que está errado, mas está funcionando!"
+  },
+  {
+    "data": "26/07/2017",
+    "autor": "Ederson",
+    "frase": "Ambos, um dos dois, tanto um como o outro..."
+  },
+  {
+    "data": "26/07/2017",
+    "autor": "Ederson",
+    "frase": "Igual ao outro,só que mais em tempo real"
+  },
+  {
+    "data": "26/07/2017",
+    "autor": "Israel",
+    "frase": "Questionei ele sobre esta questão"
+  },
+  {
+    "data": "03/08/2017",
+    "autor": "Rommel",
+    "frase": "Essa máquina aqui é uma máquina"
+  },
+  {
+    "data": "21/08/2017",
+    "autor": "Gerson",
+    "frase": "Esse erro está certo, parece estanho, mas é um erro certo!"
+  },
+  {
+    "data": "28/09/2017",
+    "autor": "Rommel",
+    "frase": "Esses loucos são loucos mesmo!!!"
+  },
+  {
+    "data": "28/09/2017",
+    "autor": "Rommel",
+    "frase": "Não sei o que pode ser, eu acho que... sei lá, eu não sei!"
+  },
+  {
+    "data": "29/09/2017",
+    "autor": "Rommel",
+    "frase": "Mandei corrigido, com as informações corretas!"
+  },
+  {
+    "data": "10/03/2016",
+    "autor": "Cidinei Cassol",
+    "frase": "É de me cair os BIS da boca"
+  },
+  {
+    "data": "15/03/2016",
+    "autor": "Cidinei Cassol",
+    "frase": "POS(Point of Sale) = Abreviação de maquininha de cartão!!!"
+  },
+  {
+    "data": "11/07/2016",
+    "autor": "Cidinei Cassol",
+    "frase": "Se o cara assinou, tá botando o nome embaixo"
+  },
+  {
+    "data": "11/01/2016",
+    "autor": "Ederson Rincel",
+    "frase": "É ali pertinho do alfabeto, na região final"
+  },
+  {
+    "data": "Fev. de 2016",
+    "autor": "Ederson Rincel",
+    "frase": "Logo imediatamente após"
+  },
+  {
+    "data": "22/03/2016",
+    "autor": "Ederson Rincel",
+    "frase": "Código de localizamento dos correios"
+  },
+  {
+    "data": "20/05/2016",
+    "autor": "Ederson Rincel",
+    "frase": "Ele colocou uma letra que dá uma palavra"
+  },
+  {
+    "data": "12/09/2016",
+    "autor": "Ederson Rincel",
+    "frase": "O que o bicho da seda faz?"
+  },
+  {
+    "data": "Desconhecido",
+    "autor": "Ederson Rincel",
+    "frase": "Não vou usar palavras de baixo escalão"
+  },
+  {
+    "data": "Desconhecido",
+    "autor": "Ederson Rincel",
+    "frase": "Me engasguei comigo mesmo"
+  },
+  {
+    "data": "28/07/2016",
+    "autor": "Edesron Rincel",
+    "frase": "Vamos comprar uma lâmpada para testar o escuro?"
+  },
+  {
+    "data": "Desconhecido",
+    "autor": "Edesron Rincel",
+    "frase": "Duvido que tu 'ere' esses 'êro'"
+  },
+  {
+    "data": "11/01/2016",
+    "autor": "Gerson Mayer",
+    "frase": "Permaneceria-se"
+  },
+  {
+    "data": "05/02/2016",
+    "autor": "Gerson Mayer",
+    "frase": "Fazer uma cesária sorrir ao contrário"
+  },
+  {
+    "data": "02/03/2016",
+    "autor": "Gerson Mayer",
+    "frase": "Se eu for eu vou"
+  },
+  {
+    "data": "20/04/2016",
+    "autor": "Gerson Mayer",
+    "frase": "Todo parágrafo começa a partir do início"
+  },
+  {
+    "data": "20/05/2016",
+    "autor": "Gerson Mayer",
+    "frase": "Eu nunca intiquei um camelo"
+  },
+  {
+    "data": "Desconhecido",
+    "autor": "Gerson Mayer",
+    "frase": "Calça prensadinha que nem caldo Knnor"
+  },
+  {
+    "data": "Desconhecido",
+    "autor": "Gerson Mayer",
+    "frase": "O silêncio fala mais que mil palavras"
+  },
+  {
+    "data": "Desconhecido",
+    "autor": "Gerson Mayer",
+    "frase": "Rufam-se os tambores primatas"
+  },
+  {
+    "data": "Desconhecido",
+    "autor": "Gerson Mayer",
+    "frase": "Lindwos Server"
+  },
+  {
+    "data": "11/01/2016",
+    "autor": "Israel Frare",
+    "frase": "Ah, tu quer lenha pra madeira?"
+  },
+  {
+    "data": "Fev. de 2016",
+    "autor": "Israel Frare",
+    "frase": "O número que é o correto tá certo!"
+  },
+  {
+    "data": "01/03/2016",
+    "autor": "Israel Frare",
+    "frase": "Ruminar é uma características dos animais ruminantes"
+  },
+  {
+    "data": "31/08/2016",
+    "autor": "Israel Frare",
+    "frase": "Tecnicamente eu sou um homem!"
+  },
+  {
+    "data": "Fev. de 2016",
+    "autor": "Jefferson Donziski",
+    "frase": "Seguinte é o que vem depois"
+  },
+  {
+    "data": "02/03/2016",
+    "autor": "Jefferson Donziski",
+    "frase": "Tu é fraco de pensamento"
+  },
+  {
+    "data": "26/04/2016",
+    "autor": "Jefferson Donziski",
+    "frase": "Temos que comprar uma bolinha circular"
+  },
+  {
+    "data": "Set. de 2016",
+    "autor": "Jefferson Donziski",
+    "frase": "Essa é a última antes da última"
+  },
+  {
+    "data": "Set. de 2016",
+    "autor": "Vagner Vergílio",
+    "frase": "Tropecei no seu erro"
+  },
+  {
+    "data": "Desconhecido",
+    "autor": "Vagner Vergílio",
+    "frase": "Depois que bebe todo mundo fala a mesma língua"
+  },
+  {
+    "data": "14/10/2016",
+    "autor": "Vinicius Rommel",
+    "frase": "Ou tu faz certo, ou tu faz errado."
+  }
+]
+
