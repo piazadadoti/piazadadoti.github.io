@@ -15,7 +15,7 @@ function init() {
        var perolas = JSON.parse(response);
        console.log(perolas);
        perolas.forEach(perola => {
-           $('#container-perolas').append('<blockquote>' + perola.frase + '</blockquote><cite>' + perola.autor + ' em ' + perola.data + '</cite>');
+           $('#container-perolas').append('<blockquote>' + perola.frase.replace(/[\r\n]+/gm, '<br>') + '</blockquote><cite>' + perola.autor + ' em ' + perola.data + '</cite>');
        });
     });
 }
