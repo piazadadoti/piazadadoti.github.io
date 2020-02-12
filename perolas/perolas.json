@@ -1,9 +1,5 @@
 [ 
-   {
-    "data": "11/02/2020",
-    "autor": "Paulo",
-    "frase": "Nós evoluímos nos erros para chegar nos acertos."
-   },
+   
    {
     "data": "12/02/2020",
     "autor": "Vinicius",
@@ -13,6 +9,11 @@
     "data": "12/02/2020",
     "autor": "Jefferson",
     "frase": "Uma perna de queijo!"
+   },
+   {
+    "data": "11/02/2020",
+    "autor": "Paulo",
+    "frase": "Nós evoluímos nos erros para chegar nos acertos."
    },
    {
     "data": "16/12/2019",
