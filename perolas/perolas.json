@@ -1,4 +1,19 @@
-[  
+[ 
+   {
+    "data": "19/01/2021",
+    "autor": "Adinilson",
+    "frase": "Qualhei um Café"
+  },
+  {
+    "data": "30/12/2020",
+    "autor": "Adinilson",
+    "frase": "Quanto um caso come de carne?"
+  },
+  {
+    "data": "29/12/2020",
+    "autor": "Adinilson",
+    "frase": "Agora tá queimando a bunda"
+  },
   {
     "data": "23/12/2020",
     "autor": "Adinilson",
@@ -9,110 +24,22 @@
     "autor": "Marina",
     "frase": "Eu sou a Capivara do reino humano"
   },
-   {
+  {
     "data": "17/12/2020",
     "autor": "Vinicius",
     "frase": "30 de 60 que é 100"
   },
-   {"data": "07/12/2020",
+  {
+    "data": "07/12/2020",
     "autor": "Guilherme",
     "frase": "Chopp Ipiva"
-   },
-   {
+  },
+  {
     "data": "26/11/2020",
     "autor": "Adinilson",
     "frase": "Vamos fazer um negocinho diferente uma hora dessas... Um café com gás"
-   },
-   {
-    "data": "25/11/2020",
-    "autor": "Adinilson",
-    "frase": "Perdeu o cheiro"
-   },
-   {
-    "data": "19/03/2020",
-    "autor": "Ederson via Chat pela VPN",
-    "frase": "Eu errei a senha, era um erro mais primata"
-   },
-   {
-    "data": "26/02/2020",
-    "autor": "Gerson",
-    "frase": "A base de homologação de Deus é o ornitorrinco"
-   },
-   {
-    "data": "26/02/2020",
-    "autor": "Ederson",
-    "frase": "Deus pensou: Aonde posso fazer um backup de todos os bichos que criei? Aí criou o ornitorrinco"
-   },
-   {
-    "data": "12/02/2020",
-    "autor": "Vinicius",
-    "frase": "Tenho que ir pra casa para botar a batatinha esquentar."
-   },
-   {
-    "data": "12/02/2020",
-    "autor": "Jefferson",
-    "frase": "Uma perna de queijo!"
-   },
-   {
-    "data": "11/02/2020",
-    "autor": "Paulo",
-    "frase": "Nós evoluímos nos erros para chegar nos acertos."
-   },
-   {
-    "data": "16/12/2019",
-    "autor": "Israel",
-    "frase": "Biólogo é uma conversa de dois"
-   },
-   {
-    "data": "12/12/2019",
-    "autor": "Gerson",
-    "frase": "Nem tudo tá tão vivo e nem tudo tá tão morto"
-   },
-   {
-    "data": "12/12/2019",
-    "autor": "Gerson",
-    "frase": "Ele é tão aleatório, que chega a ser constante."
-   },
-   {
-    "data": "25/11/2019",
-    "autor": "Jefferson",
-    "frase": "Eu vou montar uma rede Wi-Fi só pro bluetooth!"
-   },
-   {
-    "data": "19/11/2019",
-    "autor": "Israel",
-    "frase": "Engenharia reversa de gambiarra."
-   },
-   {
-    "data": "14/11/2019",
-    "autor": "Gerson e Jefferson",
-    "frase": "Gerson: - Tirando os prós... \nJefferson: - ...Só sobram os contras!"
-   },
-   {
-    "data": "31/10/2019",
-    "autor": "Vini",
-    "frase": "Eu vi o brilho e disse: \"Pow\"!"
-   },
-   {
-    "data": "30/10/2019",
-    "autor": "Vini",
-    "frase": "Vou terceirizar a morte."
   },
-  {
-    "data": "16/10/2019",
-    "autor": "Pablo",
-    "frase": "Eles vão te passar uma avaliação positiva do que tem que piorar."
-  },
-  {
-    "data": "04/10/2019",
-    "autor": "Gerson",
-    "frase": "Não deu certo porque o sobrenome era boing, se fosse embraer daria certo."
-  },
-  {
-    "data": "30/09/2019",
-    "autor": "Jonas",
-    "frase": "Isso aqui é o tal do Xisco"
-  },
+  
   {
     "data": "20/09/2019",
     "autor": "Eder",
