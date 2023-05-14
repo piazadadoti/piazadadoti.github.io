@@ -1,3 +1,6 @@
 {
-  "audio": "paunocu.mp3"
+  "audio": {
+    "titulo": "Minha Música",
+    "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/audio.mp3"
+  }
 }
